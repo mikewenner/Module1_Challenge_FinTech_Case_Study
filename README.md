@@ -23,11 +23,11 @@ The company has obtained funding through traditional rounds of capital funding. 
 ## Business Activities
 ***
 ### ***What specific financial problem is the company or project trying to solve?***
-A single stop for customers and clients to be able to globally get advice, invest and manage their money fractionally in a variety of accounts types right at your fingertips. The platform DriveWealth LLC has developed can be customizable to the end user depending on the needs and goals of the customer. “Our technology enables our partners to let their consumers trade anything, anytime, from anywhere.” (drivewealth.com) First, the platform offers customers the ability to trade in micro shares or fractionally trade the markets in multiple currencies as well as have access to crypto & tokens based trading. In the portfolio space, customers can create traditional advisor type portfolios that can be automatically rebalanced, as well as full model driven robo-advisor based portfolios. The technology can also allow companies to reward customers with fractional shares of a publicly traded equity in a loyalty app or credit card.  Finally, the company has taken its complete solution fractional investing and trading approach to the health insurance industry and has integrated it into HSA accounts.
+A single stop for customers and clients to be able to globally get advice, invest and manage their money fractionally in a variety of accounts types right at your fingertips. The platform DriveWealth LLC has developed can be customizable to the end user depending on the needs and goals of the customer. “Our technology enables our partners to let their consumers trade anything, anytime, from anywhere.” (https://www.drivewealth.com) First, the platform offers customers the ability to trade in micro shares or fractionally trade the markets in multiple currencies as well as have access to crypto & tokens based trading. In the portfolio space, customers can create traditional advisor type portfolios that can be automatically rebalanced, as well as full model driven robo-advisor based portfolios. The technology can also allow companies to reward customers with fractional shares of a publicly traded equity in a loyalty app or credit card.  Finally, the company has taken its complete solution fractional investing and trading approach to the health insurance industry and has integrated it into HSA accounts.
 
 
 ### ***Who is the company's intended customer?  Is there any information about the market size of this set of customers?***
-DriveWealth’s customers touch a multitude of markets including neobanks (current customer - Flink), digital wallets (current customer - CashApp Block Inc) online loan companies (current customer - MoneyLoin), financial management companies (current customer - Digit), health insurance companies (current customer - MotivHealth), financial education firms (current customer - Alinea) & software (current customer - Templum).  As can be easily noted, DriveWealth LLC’s customers fall into a wide and diverse array of different markets. To examine one specific market size, neobanking, grandviewresearch.com indicated that the global neobanking market size was valued at USD 47.39 billion in 2021 and is expected to grow at a compound annual growth rate (CAGR) of 53.4% from 2022 to 2030 as seen in the below graph from (https://www.grandviewresearch.com/industry-analysis/neobanking-market) 
+DriveWealth’s customers touch a multitude of markets including neobanks (current customer - Flink), digital wallets (current customer - CashApp Block Inc) online loan companies (current customer - MoneyLoin), financial management companies (current customer - Digit), health insurance companies (current customer - MotivHealth), financial education firms (current customer - Alinea) & software (current customer - Templum).  As can be easily noted, DriveWealth LLC’s customers fall into a wide and diverse array of different markets. To examine one specific market size, neobanking, grandviewresearch.com indicated that the global neobanking market size was valued at USD 47.39 billion in 2021 and is expected to grow at a compound annual growth rate (CAGR) of 53.4% from 2022 to 2030; as seen in the below graph from (https://www.grandviewresearch.com/industry-analysis/neobanking-market) 
 
 ![neobanking image](images/us-neobanking-market.png)
 
@@ -40,44 +40,44 @@ DriveWealth utilizes proprietary API’s in their technology of fractional inves
 
 ## Landscape
 ***
-### ***What domain of the financial industry is the company in?
+### ***What domain of the financial industry is the company in?***
 DriveWealth touches a number of FinTech domains but most significantly would be in the personal finance & trading along with digital banking.
 
-### What have been the major trends and innovations of this domain over the last 5–10 years?
+### ***What have been the major trends and innovations of this domain over the last 5–10 years?***
 The major trends and changes in this realm revolve around taking financial transactions from a time intensive person to person action to electronic and digital transactions that occur seemingly instantaneously from a mobile device.
 
-### What are the other major companies in this domain?
+### ***What are the other major companies in this domain?***
 Some of the other companies in this space and are considered DriveWealth’s competitors are Alpaca, Staircase, PerPay and RenoFi.
 
 
 ## Results
 ***
-### What has been the business impact of this company so far?
+### ***What has been the business impact of this company so far?***
 The business impact thus far can be characterized as rapid,  innovative and positive. DriveWealth is viewed as an industry pioneer in fractional shares trading and in November 2022 was named to Deloitte’s Technology Fast 500 list.  This list is in its 28th year and describes it award winners as “innovative technology companies that redefine the cutting edge and disrupt the technology industry” (https://www2.deloitte.com/us/en/pages/technology-media-and-telecommunications/articles/fast500-winners.html)
 
-### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+### ***What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?***
 Some core metrics used to measure success for the company are funding, valuation customer & revenue growth, International growth and headcount expansion.
 
-### How is your company performing relative to competitors in the same domain?
+### ***How is your company performing relative to competitors in the same domain?***
 DriveWealth is performing extremely well in this space as compared to competitors, it has completed 5 rounds of funding totaling $550.8M. Some notable investors in recent funding rounds include : Point72 Ventures, Citi Ventures and Fidelity International (https://www.crunchbase.com/organization/drivewealth/company_financials).  Regarding valuation and user numbers, Forbes recently noted that “The number of people trading with DriveWealth's software climbed from 7.2 million to 15 million last year, and the company's valuation jumped more than 10x.” The valuation currently sits at $2.85billion. (https://www.forbes.com/companies/drivewealth/?sh=62f74b9e508d). Furthermore, businesswire.com reported in May 2022 that DriveWealth had “a transformational year where the company realized a 100% growth in customers and revenue, 140% growth of its international business, and an over 150% increase in headcount in 2021.” (https://www.businesswire.com/news/home/20220510005940/en/Fintech-Unicorn-DriveWealth-Appoints-New-Global-CEO-Following-Rapid-Global-Expansion-and-Customer-Growth)
 
 
 ## Recommendations
 ***
-### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-The main advice that  would provide would be to expand its fraction offerings.  Currently it only looks as if stocks and crypto are offered. I would recommend offering a full suite of products to customers including options, futures, mutual funds and bonds.
+### ***If you were to advise the company, what products or services would you suggest they offer?***
+The main advice that I would provide would be to expand its available fraction offerings.  Currently it only looks as if stocks and crypto are offered. I would recommend offering a full suite of products to customers including options, futures, mutual funds and bonds.
 
-### Why do you think that offering this product or service would benefit the company?
-Giving the customer more available products should attract more customers to use the platform and generate more revenue per customer as transaction volume increases. Furthermore, alternative products to traditional stocks are seeing a substantial increase in volume in the past few years.  Specifically with options, sekingalpha.com posted the following chart which shows the large increase in single stock daily option volume in the past three years:(https://seekingalpha.com/article/4494087-option-flow-2021-retail-rising)
+### ***Why do you think that offering this product or service would benefit the company?***
+Giving the customer more available products to utilize should attract more customers to use the platform and generate more revenue per customer as transaction volume increases. Furthermore, alternative products to traditional stocks are seeing a substantial increase in volume in the past few years.  Specifically with options, sekingalpha.com posted the following chart which shows the large increase in single stock daily option volume in the past three years:(https://seekingalpha.com/article/4494087-option-flow-2021-retail-rising)
 
 ![options image](images/options_volume.png)
-
-### What technologies would this additional product or service utilize?
+In this specific case, opening the platform to options trading for customers would put the comapny in position to take advantage of the recent rapid interest and growth in the options space.  
+### ***What technologies would this additional product or service utilize?***
 Initial thought is that the expansion into additional product offerings mentioned previously would not require additional new technologies but just an adaptation of existing API’s 
 
 ## References
 ***
-### Below are the reference web pages used in this case study:
+### ***Below are the reference web pages used in this case study:***
 https://www.drivewealth.com/
 https://www.crunchbase.com/organization/drivewealth/company_financials
 https://www.similarweb.com/website/drivewealth.com/#overview
